@@ -1,0 +1,49 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(im/dlarge.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.df input{
+width: 15%;
+    text-align: center;
+}
+.df2 input{
+    width: 80%;
+        text-align: center;
+    }
+    #lab1{
+        width: 88%;
+            text-align: center;
+        }
+form{
+    border:4px black solid;
+    background: linear-gradient(#d8bfa7, #ff8800);
+    width: 45%;
+margin-left: 30%;
+margin-top: 10%;
+}
+.f{
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.df{
+    background-color: rgb(187, 131, 58);
+    margin-right: 10%;
+    border: 2px rgb(255, 255, 255) solid;
+}
+.df2{
+    text-align: center;
+    background-color: rgb(187, 131, 58);
+    margin-right: 10%;
+    border: 2px rgb(255, 255, 255) solid;
+}
+#num1{
+    width:18%;
+}
+.df2 button{
+    border-radius: 16%;
+    margin-top: 5%;
+    background: linear-gradient(#5f5f5f, #f3e4ff);
+}
